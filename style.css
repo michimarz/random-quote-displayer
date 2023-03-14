@@ -1,0 +1,33 @@
+/* CSS */
+#quote-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #quote-text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  #quote-author {
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+  
+  #new-quote-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  #new-quote-button:hover {
+    background-color: #444;
+  }
+  
